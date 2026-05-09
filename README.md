@@ -18,6 +18,18 @@ This tool automatically:
 - Resume ranking
 - CSV report generation
 
+## Dashboard
+
+![Dashboard](images/dashboard.png)
+
+## Graph
+
+![Graph](images/graph.png)
+
+## Candidate Analysis
+
+![Analysis](images/candidate_analysis.png)
+
 ## Tech Stack
 - Python
 - Pandas
@@ -28,3 +40,4 @@ This tool automatically:
 ```bash
 pip install -r requirements.txt
 python main.py
+
