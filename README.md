@@ -28,7 +28,7 @@ This tool automatically:
 
 ## Candidate Analysis
 
-![Analysis](images/candidate_analysis.png)
+![Candidate Analysis](images/candidate_analysis.png)
 
 ## Tech Stack
 - Python
